@@ -49,56 +49,6 @@ I am a Computer Science student at East West University and a developer who like
   <a href="https://github.com/ShahriarOishik/Laptop-Recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahriarOishik&repo=Laptop-Recommender&theme=transparent&hide_border=true" alt="Laptop-Recommender repository card" /></a>
 </p>
 
-### Portfolio Website
-
-Full-stack personal portfolio with a dark, game-inspired visual identity, project discovery, competitive-programming stats, and a contact workflow.
-
-**Main technologies:** React 19, Vite, Express.js, Node.js, custom CSS
-
-**Key features:** Typing hero, visitor counter, social links, project API, pixel-game competitive-programming section, skills and achievements, contact form
-
-**Dependencies:** Frontend and backend dependencies are listed in `client/package.json` and `server/package.json`.
-
-**Run locally:**
-
-```bash
-git clone https://github.com/ShahriarOishik/LabFinalPortfolioWebsite.git
-cd LabFinalPortfolioWebsite
-cd server && npm install && npm run dev
-# In a second terminal:
-cd client && npm install && npm run dev
-```
-
-**Links:** [Repository](https://github.com/ShahriarOishik/LabFinalPortfolioWebsite) | [Live demo](https://portfolio-frontend-beta-six.vercel.app)
-
-### Laptop Recommender
-
-An end-to-end RAG laptop recommendation system that turns natural-language requests into grounded, citation-backed recommendations from a catalog of real laptop listings.
-
-**Main technologies:** React 19, TypeScript, FastAPI, Python, Apache Spark, FAISS, Qdrant, sentence-transformers
-
-**Key features:** Hybrid semantic and structured search, budget-aware ranking, cited recommendations, conversational follow-ups, streaming responses, and LLM provider fallback
-
-**Dependencies:** Python packages are listed in `Backend/requirements.txt`; frontend packages are listed in `Frontend/package.json`.
-
-**Run locally:**
-
-```bash
-git clone https://github.com/ShahriarOishik/Laptop-Recommender.git
-cd Laptop-Recommender
-cd Backend
-python -m venv .venv
-# Windows PowerShell: .\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-uvicorn app.main:app --host 0.0.0.0 --port 7860
-# In a second terminal:
-cd Frontend
-npm install
-npm run dev
-```
-
-**Links:** [Repository](https://github.com/ShahriarOishik/Laptop-Recommender) | [Live frontend](https://laptop-recommender.vercel.app)
-
 ## GitHub Activity
 
 <p align="center">
