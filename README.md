@@ -18,7 +18,7 @@
 
 ## About Me
 
-I enjoy learning by building practical software. My interests include modern web applications, retrieval-augmented generation, data-driven products, APIs, and algorithmic problem solving.
+I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.
 
 ## Education
 
