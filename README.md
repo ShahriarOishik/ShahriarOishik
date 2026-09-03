@@ -1,76 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:14b8a6&height=220&section=header&text=Shahriar%20Mahabub%20Oishik&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Building%20useful%20software%20with%20curiosity%20and%20care&descAlignY=60&descSize=18" alt="Shahriar Mahabub Oishik profile banner" width="100%" />
+<h1 align="center">Hi 👋, I'm Shahriar Oishik</h1>
+<h3 align="center">A passionate frontend developer and RAG developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriaroishik&label=Profile%20views&color=0e75b6&style=flat" alt="shahriaroishik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriaroishik" alt="shahriaroishik" /></a> </p>
+
+- 🌱 I’m currently learning **RAG systems**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ShahriarOishik](https://github.com/ShahriarOishik)
+
+- 📫 How to reach me **oishik278@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/souldiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souldiamond" height="30" width="40" /></a>
+<a href="https://fb.com/oije.shik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oije.shik" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.neg_tive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.neg_tive" height="30" width="40" /></a>
+<a href="https://www.behance.net/janina1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="janina1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/soulxer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soulxer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/soulxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soulxer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shahriaroishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahriaroishik" height="30" width="40" /></a>
 </p>
 
-<table>
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/61654348?v=4" alt="Shahriar Mahabub Oishik profile picture" width="190" />
-    </td>
-    <td width="72%" valign="middle">
-      <h1>Hi, I'm Shahriar Mahabub Oishik</h1>
-      <h3>Computer Science Student | Full-Stack Developer</h3>
-      <p>I enjoy turning ideas into thoughtful, practical products. My interests span modern web development, data-driven applications, and problem solving.</p>
-      <p>
-        <a href="https://github.com/ShahriarOishik">GitHub</a> &nbsp;|&nbsp;
-        <a href="https://www.linkedin.com/in/shahriar-oishik">LinkedIn</a> &nbsp;|&nbsp;
-        <a href="mailto:oishik278@gmail.com">Email</a>
-      </p>
-      <p><strong>Location:</strong> Dhaka, Bangladesh<br /><strong>Email:</strong> <a href="mailto:oishik278@gmail.com">oishik278@gmail.com</a></p>
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-ShahriarOishik-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
-## About Me
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/oishik278m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oishik278m" /></a></p><br><br>
 
-I am a Computer Science student at East West University and a developer who likes learning by building. I care about clean interfaces, reliable backend logic, and projects that solve a real problem for their users.
 
-- I am building full-stack applications with React, Node.js, and Python.
-- I am exploring retrieval-augmented generation, vector search, and applied machine learning.
-- I am currently improving my portfolio and experimenting with Next.js.
-- I enjoy algorithms, competitive programming, and learning new engineering practices.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriaroishik&show_icons=true&locale=en&layout=compact" alt="shahriaroishik" /></p>
 
-## Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriaroishik&show_icons=true&locale=en" alt="shahriaroishik" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,java,cpp,fastapi,git,github,figma&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, Python, Java, C++, FastAPI, Git, GitHub and Figma" />
-</p>
-
-## Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/ShahriarOishik/LabFinalPortfolioWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahriarOishik&repo=LabFinalPortfolioWebsite&theme=transparent&hide_border=true" alt="LabFinalPortfolioWebsite repository card" /></a>
-  <a href="https://github.com/ShahriarOishik/Laptop-Recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahriarOishik&repo=Laptop-Recommender&theme=transparent&hide_border=true" alt="Laptop-Recommender repository card" /></a>
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahriarOishik&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true" alt="Shahriar's GitHub statistics" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahriarOishik&theme=transparent&hide_border=true" alt="Shahriar's GitHub contribution streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarOishik&layout=compact&theme=transparent&hide_border=true" alt="Shahriar's most-used programming languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShahriarOishik&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Shahriar's GitHub trophies" width="90%" />
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-Shahriar%20Oishik-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/SouLXeR"><img src="https://img.shields.io/badge/Codeforces-SouLXeR-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-contact-14b8a6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center"><sub>Dhaka, Bangladesh | Open to learning, collaboration, and meaningful software projects</sub></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaroishik&" alt="shahriaroishik" /></p>
