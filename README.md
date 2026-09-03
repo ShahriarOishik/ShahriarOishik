@@ -58,12 +58,12 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahriarOishik&show_icons=true&rank_icon=github&theme=radical&hide_border=true&include_all_commits=true" alt="Shahriar's GitHub statistics" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarOishik&theme=radical" alt="Shahriar's GitHub statistics" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahriarOishik&theme=radical&hide_border=true" alt="Shahriar's GitHub contribution streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarOishik&layout=compact&theme=radical&hide_border=true" alt="Shahriar's most-used programming languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahriarOishik&theme=radical" alt="Shahriar's most-used programming languages" height="200" />
 </p>
 
 <p align="center">
