@@ -2,10 +2,6 @@
   <img src="./assets/profile-banner.svg" alt="Shahriar Oishik profile banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/61654348?v=4" alt="Shahriar Oishik profile picture" width="160" />
-</p>
-
 <h1 align="center">Hi, I'm Shahriar Oishik</h1>
 <p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
 <p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
