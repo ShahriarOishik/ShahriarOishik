@@ -14,9 +14,9 @@
       <p>
         <a href="https://github.com/ShahriarOishik">GitHub</a> &nbsp;|&nbsp;
         <a href="https://www.linkedin.com/in/shahriar-oishik">LinkedIn</a> &nbsp;|&nbsp;
-        <a href="mailto:your-email@example.com">Email</a>
+        <a href="mailto:oishik278@gmail.com">Email</a>
       </p>
-      <p><strong>Location:</strong> Dhaka, Bangladesh<br /><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+      <p><strong>Location:</strong> Dhaka, Bangladesh<br /><strong>Email:</strong> <a href="mailto:oishik278@gmail.com">oishik278@gmail.com</a></p>
     </td>
   </tr>
 </table>
@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-ShahriarOishik-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-say_hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## About Me
@@ -70,7 +70,7 @@ I am a Computer Science student at East West University and a developer who like
   <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-Shahriar%20Oishik-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://codeforces.com/profile/SouLXeR"><img src="https://img.shields.io/badge/Codeforces-SouLXeR-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-contact-14b8a6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-contact-14b8a6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><sub>Dhaka, Bangladesh | Open to learning, collaboration, and meaningful software projects</sub></p>
