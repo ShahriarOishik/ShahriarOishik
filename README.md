@@ -1,20 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:9333ea,100:ec4899&height=220&section=header&text=Shahriar%20Oishik&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20RAG%20Developer&descAlignY=62&descSize=20" alt="Shahriar Oishik profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Shahriar Oishik profile banner" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/61654348?v=4" alt="Shahriar Oishik profile picture" width="180" />
-    </td>
-    <td width="75%" valign="middle">
-      <h1>Hi, I'm Shahriar Oishik</h1>
-      <h3>Full-Stack Developer | RAG Developer</h3>
-      <p>I am a Computer Science student at East West University who enjoys learning by building practical software. I am interested in modern web applications, retrieval-augmented generation, data-driven products, and problem solving.</p>
-      <p><strong>Location:</strong> Dhaka, Bangladesh<br /><strong>Email:</strong> <a href="mailto:oishik278@gmail.com">oishik278@gmail.com</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/61654348?v=4" alt="Shahriar Oishik profile picture" width="160" />
+</p>
+
+<h1 align="center">Hi, I'm Shahriar Oishik</h1>
+<p align="center"><strong>Full-Stack Developer | RAG Developer</strong></p>
+<p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
 
 <p align="center">
   <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-oishik278%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -24,22 +18,35 @@
 
 ## About Me
 
-- I am currently learning and experimenting with RAG systems.
-- I build full-stack applications with modern frontend and backend tools.
-- I enjoy working with algorithms, data, APIs, and user-focused interfaces.
-- I am open to learning, collaboration, and meaningful software projects.
+I enjoy learning by building practical software. My interests include modern web applications, retrieval-augmented generation, data-driven products, APIs, and algorithmic problem solving.
+
+- Currently learning and experimenting with RAG systems.
+- Building full-stack applications with modern frontend and backend tools.
+- Improving my understanding of data, search, and applied machine learning.
+- Open to learning, collaboration, and meaningful software projects.
+
+## Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-4f46e5?style=for-the-badge" alt="Full-Stack Web Development" />
+  <img src="https://img.shields.io/badge/RAG%20and%20Vector%20Search-9333ea?style=for-the-badge" alt="RAG and Vector Search" />
+  <img src="https://img.shields.io/badge/Algorithms%20and%20Problem%20Solving-ec4899?style=for-the-badge" alt="Algorithms and Problem Solving" />
+</p>
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,fastapi,java,cpp,git,github&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, Python, FastAPI, Java, C++, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,fastapi,java,cpp,git,github&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, Python, FastAPI, Java, C++, Git and GitHub" width="560" />
 </p>
 
-## Pinned Repositories
+## Selected Work
 
 <p align="center">
-  <a href="https://github.com/ShahriarOishik/LabFinalPortfolioWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahriarOishik&repo=LabFinalPortfolioWebsite&theme=radical&hide_border=true&show_owner=true" alt="LabFinalPortfolioWebsite repository card" /></a>
-  <a href="https://github.com/ShahriarOishik/Laptop-Recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahriarOishik&repo=Laptop-Recommender&theme=radical&hide_border=true&show_owner=true" alt="Laptop-Recommender repository card" /></a>
+  <a href="https://github.com/ShahriarOishik/LabFinalPortfolioWebsite"><img src="https://opengraph.githubassets.com/1/ShahriarOishik/LabFinalPortfolioWebsite" alt="LabFinalPortfolioWebsite completed project card" width="500" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShahriarOishik/Laptop-Recommender"><img src="https://opengraph.githubassets.com/1/ShahriarOishik/Laptop-Recommender" alt="Laptop-Recommender completed project card" width="500" /></a>
 </p>
 
 ## Connect With Me
@@ -58,12 +65,15 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarOishik&theme=radical" alt="Shahriar's GitHub statistics" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahriarOishik&theme=radical&hide_border=true" alt="Shahriar's GitHub contribution streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahriarOishik&theme=radical" alt="Shahriar's GitHub statistics" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahriarOishik&theme=radical" alt="Shahriar's most-used programming languages" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahriarOishik&theme=radical" alt="Shahriar's most-used programming languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahriarOishik&theme=radical&hide_border=true" alt="Shahriar's GitHub contribution streak" width="500" />
 </p>
 
 <p align="center">
