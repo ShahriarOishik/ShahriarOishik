@@ -36,10 +36,51 @@ I am currently a Computer Science student at East West University, where I also 
   <img src="https://img.shields.io/badge/Algorithms%20and%20Problem%20Solving-ec4899?style=for-the-badge" alt="Algorithms and Problem Solving" />
 </p>
 
-## Skills
+## Skills & Technical Stack
+
+### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,fastapi,java,cpp,git,github&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, Python, FastAPI, Java, C++, Git and GitHub" width="560" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,sql&perline=6" alt="JavaScript, TypeScript, Python, Java, C++ and SQL" height="42" />
+</p>
+
+### Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=5" alt="HTML, CSS, React, Vite and Tailwind CSS" height="42" />
+</p>
+
+### Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&perline=4" alt="Node.js, Express, Python and FastAPI" height="42" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-4f46e5?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Server--Sent%20Events-9333ea?style=for-the-badge" alt="Server-Sent Events" />
+</p>
+
+### Data, AI & RAG
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-4f46e5?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Embeddings-9333ea?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/FAISS-ec4899?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Qdrant-ef4444?style=for-the-badge" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-f59e0b?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&perline=4" alt="Git, GitHub, Docker and Vercel" height="42" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-4f46e5?style=for-the-badge" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-ec4899?style=for-the-badge" alt="Responsive UI" />
 </p>
 
 ## Selected Work
