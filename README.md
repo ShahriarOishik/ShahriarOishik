@@ -21,12 +21,12 @@
 </div>
 <br clear="both" />
 <div>
-<div align="right">
+<div align="left">
 <p>
-  <img align="right" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
+  <img align="left" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
 </p>
 </div>
-<div align="left">
+<div align="right">
   
   ## About Me
   <p>I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.</p>
