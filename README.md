@@ -4,7 +4,7 @@
 
 <div align="left">
 <p>
-  <img align="right" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
+  <img align="right" src="./assets/skeleton_gif.gif" alt="Animated retro pixel-art city at night" width="260" />
 </p>
 </div>
 
