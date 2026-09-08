@@ -7,7 +7,7 @@
   <img align="right" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
 </p>
 
-<h1 align="center">Hi, I'm Shahriar Oishik</h1>
+<p align="center">Hi, I'm Shahriar Oishik</p>
 <p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
 <p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
 
