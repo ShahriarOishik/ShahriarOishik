@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Shahriar Oishik profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg?v=2" alt="Shahriar Oishik profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Shahriar Oishik</h1>
