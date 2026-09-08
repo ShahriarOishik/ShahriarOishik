@@ -2,36 +2,30 @@
   <img src="./assets/profile-banner.svg?v=2" alt="Shahriar Oishik profile banner" width="100%" />
 </p>
 
-<div align="left">
-<p>
-  <img align="right" src="./assets/skeleton_gif.gif" alt="Animated retro pixel-art city at night" width="260" />
-</p>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" width="18%">
+      <img src="./assets/skeleton_gif.gif" alt="Animated monochrome skeleton illustration" width="150" />
+    </td>
+    <td align="center" valign="middle" width="64%">
+      <h1>Hi, I'm Shahriar Oishik</h1>
+      <p><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
+      <p>Computer Science student at East West University | Dhaka, Bangladesh</p>
+      <p>
+        <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-oishik278%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-Shahriar%20Oishik-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </p>
+    </td>
+    <td align="center" valign="middle" width="18%">
+      <img src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="150" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-<p align="center" style="font-size: 30px;"><strong>Hi, I'm Shahriar Oishik</strong></p>
-<p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
-<p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
+## About Me
 
-<p align="center">
-  <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-oishik278%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-Shahriar%20Oishik-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-</div>
-<br clear="both" />
-<div>
-<div align="left">
-<p>
-  <img align="left" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
-</p>
-</div>
-<div align="right">
-  
-  ## About Me
-  <p>I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.</p>
-</div>
-</div>
+I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.
 
 ## Education
 
