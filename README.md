@@ -111,14 +111,37 @@ I am currently a Computer Science student at East West University, where I also 
   <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-Shahriar%20Oishik-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## Coding Profiles
+## Competitive Experience
+
+Live competitive programming and problem-solving statistics from my public profiles.
 
 <p align="center">
-  <a href="https://kaggle.com/souldiamond"><img src="https://img.shields.io/badge/Kaggle-souldiamond-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.codechef.com/users/soulxer"><img src="https://img.shields.io/badge/CodeChef-soulxer-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://codeforces.com/profile/soulxer"><img src="https://img.shields.io/badge/Codeforces-soulxer-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/shahriaroishik"><img src="https://img.shields.io/badge/LeetCode-shahriaroishik-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/SouLXeR"><img src="https://codeforces-stats-vlx.vercel.app/api/card?username=soulxer&v2&theme=dark" alt="Shahriar Oishik's Codeforces statistics" width="500" /></a>
 </p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/soulxer"><img src="https://codechef-stat-card.vercel.app/api/soulxer?theme=dark&ext=contest" alt="Shahriar Oishik's CodeChef statistics" width="500" /></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/shahriaroishik/"><img src="https://leetcard.jacoblin.cool/shahriaroishik?ext=contest" alt="Shahriar Oishik's LeetCode statistics" width="500" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.kaggle.com/souldiamond">
+        <img src="https://img.shields.io/badge/Kaggle-souldiamond-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile: souldiamond" />
+      </a>
+      <br /><br />
+      <strong>Data Science & Competitions</strong>
+      <br />
+      Competitions, notebooks, and datasets
+      <br /><br />
+      <a href="https://www.kaggle.com/souldiamond">View Kaggle profile</a>
+    </td>
+  </tr>
+</table>
 
 ## Other Social Links
 
