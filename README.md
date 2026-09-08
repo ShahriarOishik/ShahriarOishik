@@ -20,10 +20,18 @@
 </p>
 </div>
 <br clear="both" />
-
-## About Me
-
-I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.
+<div>
+<div align="right">
+<p>
+  <img align="right" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
+</p>
+</div>
+<div align="left">
+  
+  ## About Me
+  <p>I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.</p>
+</div>
+</div>
 
 ## Education
 
