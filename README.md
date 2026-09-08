@@ -2,7 +2,7 @@
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" valign="middle" width="14%"><img src="./assets/skeleton_gif.gif" alt="Animated monochrome skeleton illustration" width="100%" /></td>
+    <td align="center" valign="middle" width="14%"><img src="./assets/Retro_City.gif" alt="Animated monochrome skeleton illustration" width="100%" /></td>
     <td align="center" valign="middle" width="72%">
       <h1 align="center">Hi, I'm Shahriar Oishik</h1>
       <p><strong>Full-Stack Developer | Exploring RAG Systems</strong><br /><sub>Computer Science student at East West University | Dhaka, Bangladesh</sub></p>
