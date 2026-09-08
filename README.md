@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-<h1 align="center">Hi, I'm Shahriar Oishik</h1>
+<p align="center"><strong>Hi, I'm Shahriar Oishik</strong></p>
 <p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
 <p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
 
