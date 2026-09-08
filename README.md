@@ -25,13 +25,29 @@
 
 ## About Me
 
-I am currently a Computer Science student at East West University, where I also work as an Undergraduate Teaching Assistant. I enjoy learning by building practical software, sharing knowledge, and strengthening my skills in modern web development and retrieval-augmented generation.
-
-## Education
-
-<p align="center">
-  <img src="https://img.shields.io/badge/East%20West%20University-Computer%20Science-4f46e5?style=for-the-badge" alt="East West University Computer Science" />
-</p>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="58%">
+      <h3>Building with purpose</h3>
+      <p>I am a Computer Science student at East West University and an Undergraduate Teaching Assistant. I learn by building practical software, sharing what I learn, and turning difficult problems into cleaner systems.</p>
+      <p>My current interests include modern web development, retrieval-augmented generation, vector search, and algorithmic problem-solving.</p>
+    </td>
+    <td width="4%">&nbsp;</td>
+    <td valign="top" width="38%">
+      <table width="100%" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+          <td>
+            <p align="center"><strong>Academic Snapshot</strong></p>
+            <p><strong>Program</strong><br />Bachelor's in Computer Science (CSE)</p>
+            <p><strong>Current CGPA</strong><br />3.92 / 4.00</p>
+            <p><strong>Credits Completed</strong><br />117 / 140</p>
+            <p><strong>Recognition</strong><br />Merit Scholarship<br />Dean's List for 3 consecutive years</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
