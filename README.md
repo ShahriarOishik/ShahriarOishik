@@ -9,11 +9,11 @@
 </div>
 
 <div align="left">
-<h1 align="left">Hi, I'm Shahriar Oishik</h1>
-<p align="left"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
-<p align="left">Computer Science student at East West University | Dhaka, Bangladesh</p>
+<h1 align="center">Hi, I'm Shahriar Oishik</h1>
+<p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
+<p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:oishik278@gmail.com"><img src="https://img.shields.io/badge/Email-oishik278%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-Shahriar%20Oishik-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
