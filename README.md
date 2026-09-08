@@ -2,6 +2,11 @@
   <img src="./assets/profile-banner.svg?v=2" alt="Shahriar Oishik profile banner" width="100%" />
 </p>
 
+<p>
+  <img align="left" src="./assets/skeleton_gif.gif" alt="Animated monochrome skeleton illustration" width="180" />
+  <img align="right" src="./assets/Retro_City.gif" alt="Animated retro pixel-art city at night" width="260" />
+</p>
+
 <h1 align="center">Hi, I'm Shahriar Oishik</h1>
 <p align="center"><strong>Full-Stack Developer | Exploring RAG Systems</strong></p>
 <p align="center">Computer Science student at East West University | Dhaka, Bangladesh</p>
@@ -11,6 +16,8 @@
   <a href="https://github.com/ShahriarOishik"><img src="https://img.shields.io/badge/GitHub-Shahriar%20Oishik-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shahriar-oishik"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<br clear="both" />
 
 ## About Me
 
